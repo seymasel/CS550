@@ -1,2 +1,2 @@
 # CS550
-CS550 hw2 
+Ozyegin University Fall 2022-2023 CS550 homework-2
